@@ -1,8 +1,8 @@
 # frozen_string_literal: true
 Pod::Spec.new do |s|
-  s.name             = 'KeychainAccess'
-  s.version          = '2.3.6'
-  s.summary          = 'KeychainAccess is a simple Swift wrapper for Keychain that works on iOS and OS X.'
+  s.name             = "KeychainAccess"
+  s.version          = "2.4.0"
+  s.summary          = "KeychainAccess is a simple Swift wrapper for Keychain that works on iOS and OS X."
   s.description      = <<-DESC
                          KeychainAccess is a simple Swift wrapper for Keychain that works on iOS and OS X.
                          Makes using Keychain APIs exremely easy and much more palatable to use in Swift.
